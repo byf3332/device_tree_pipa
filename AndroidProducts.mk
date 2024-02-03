@@ -8,6 +8,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/omni_pipa.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_pipa-user \
-    lineage_pipa-userdebug \
-    lineage_pipa-eng
+    omni_pipa-user \
+    omni_pipa-userdebug \
+    omni_pipa-eng
