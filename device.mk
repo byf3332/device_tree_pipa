@@ -35,7 +35,7 @@ DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay-lineage
 
 # Shipping API level
-PRODUCT_SHIPPING_API_LEVEL := 33
+PRODUCT_SHIPPING_API_LEVEL := 32
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
