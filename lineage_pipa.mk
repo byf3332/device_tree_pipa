@@ -14,10 +14,10 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit from pipa device
 $(call inherit-product, device/xiaomi/pipa/device.mk)
 
-PRODUCT_NAME := lineage_pipa
-PRODUCT_DEVICE := Pipa
+PRODUCT_NAME := omni_pipa
+PRODUCT_DEVICE := pipa
 PRODUCT_MANUFACTURER := Xiaomi
-PRODUCT_BRAND := Mi
-PRODUCT_MODEL := PAD 6
+PRODUCT_BRAND := Xiaomi
+PRODUCT_MODEL := 23043RP34C
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
